@@ -1,1 +1,1 @@
-# store-Interior
+# Website for furniture store "Interior" 
